@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "LSVAR"]
+	path = LSVAR
+	url = https://github.com/peiliangbai92/lsvar
+	shallow = true
+	registered = true
